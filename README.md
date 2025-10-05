@@ -95,5 +95,14 @@ fashion-image-classification/
 
 ## Output 
 
-## 📂 Project Structure
+<img width="1920" height="988" alt="Image" src="https://github.com/user-attachments/assets/28f7f60e-4bdf-4c90-87c3-46a692e64d60" />
 
+<img width="1920" height="983" alt="Image" src="https://github.com/user-attachments/assets/c3088e85-1c66-4edc-acd4-4e68b3487aa9" />
+
+<img width="1920" height="980" alt="Image" src="https://github.com/user-attachments/assets/daa27ee6-ad30-4f2b-9724-f58e92a84e22" />
+
+<img width="1920" height="988" alt="Image" src="https://github.com/user-attachments/assets/e2f328e4-6de3-40fa-ba08-a842af9cdf3a" />
+
+<img width="1097" height="524" alt="Image" src="https://github.com/user-attachments/assets/b3550946-3ef4-4c0b-9231-80a76c8327e3" />
+
+---
